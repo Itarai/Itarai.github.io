@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arcticcoffe.com" resolutions="1x" timestamp="1510433428507">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="menu.css" crc="107247558" ref="menu"/>
+    <file name="nomq_menu.css" crc="392113353" ref="menu"/>
+    <file name="index.css" crc="4018320135" ref="index"/>
+    <file name="nomq_index.css" crc="365566305" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="imba.jpg" crc="4075866257" seo="true" mt="1510430507000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu"/>
+    <file name="museutils.js" crc="3803043152" ref="index:menu"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu"/>
+    <file name="museconfig.js" crc="380897831" ref="index:menu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:menu"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:menu"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:menu"/>
+    <file name="require.js" crc="4157109226" ref="index:menu"/>
+  </folder>
+  <folder name="images">
+    <file name="4k-.jpg" crc="441063938" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u105-7.png" crc="227094510" ref="index"/>
+    <file name="u105-72.png" crc="227094510" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:menu"/>
+    <file name="shutterstock_243006283.jpg" crc="310999990" ref="menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="387342842" seo="true" mt="1510430897436" redirect="true"/>
+  <file name="menu.html" crc="432957254" seo="true" mt="1510430994787" redirect="true"/>
+</manifest>
